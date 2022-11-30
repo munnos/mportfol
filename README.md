@@ -16,7 +16,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-*[Deployed application](#deployed-application)
+* [Deployed application](#deployed-application)
 
 ## Installation
 
@@ -68,3 +68,5 @@ Testing was not required for this application.
 If you have any queries regarding this project, you can contact me at munnos@hotmail.co.uk. My projects are available at: https://github.com/github/munnos.
 
 ## Deployed application
+
+Link to deployed application on vercel - https://mportfol-5drp5lrb1-munnos1.vercel.app/
