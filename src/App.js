@@ -12,6 +12,7 @@ import { Routes, Route } from "react-router-dom";
 const app = () => {
   return (
     <>
+    
     {/* <HashRouter> */}
       <Header />
       <Routes>
