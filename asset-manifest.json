@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/munnos/mportfol/static/css/main.7f476174.css",
-    "main.js": "/munnos/mportfol/static/js/main.a61af8e7.js",
+    "main.js": "/munnos/mportfol/static/js/main.e2e6a353.js",
     "static/media/projectImage1.PNG": "/munnos/mportfol/static/media/projectImage1.41e0c8c13d9c9a393a43.PNG",
     "static/media/projectImage5.PNG": "/munnos/mportfol/static/media/projectImage5.9c97761625e5fb4e501c.PNG",
     "static/media/Me.jpg": "/munnos/mportfol/static/media/Me.39d622b7d496bdbd8b68.jpg",
@@ -12,10 +12,10 @@
     "static/media/projectImage3.PNG": "/munnos/mportfol/static/media/projectImage3.22684f0aabbcc00ebc35.PNG",
     "index.html": "/munnos/mportfol/index.html",
     "main.7f476174.css.map": "/munnos/mportfol/static/css/main.7f476174.css.map",
-    "main.a61af8e7.js.map": "/munnos/mportfol/static/js/main.a61af8e7.js.map"
+    "main.e2e6a353.js.map": "/munnos/mportfol/static/js/main.e2e6a353.js.map"
   },
   "entrypoints": [
     "static/css/main.7f476174.css",
-    "static/js/main.a61af8e7.js"
+    "static/js/main.e2e6a353.js"
   ]
 }
