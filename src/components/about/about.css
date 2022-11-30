@@ -1,0 +1,96 @@
+.about {
+    margin-top: 5rem;
+    min-height: 100vh;
+}
+
+#aboutmeHeader {
+    padding-left: 55rem;
+    display: inline-block;
+    margin-top: 2rem;
+    
+}
+
+.containeraboutContainer {
+    display: grid;
+    align-items: center;
+
+}
+
+
+
+.aboutMe {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 2rem;
+  background: linear-gradient(45deg, transparent, red, transparent);
+  display:grid;
+  place-items: center;
+
+}
+
+.aboutmeImage {
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(10deg);
+    transition: var(--transition);
+
+}
+
+.aboutmeImage:hover {
+    transform: rotate(0);
+}
+
+/* .aboutContent {
+    display: grid;
+    display: inline-block;
+    grid-auto-rows: 50vh;
+    margin-left: 50vh;
+    
+} */
+
+#picofMe {
+    height: 40vh;
+    width: 40vh;
+    margin-left: 90vh;
+    margin-top: 4rem;
+    border-radius: 12 rem 12 rem 0 0;
+    padding: 5rem 1.5rem 1.5 rem 1.5rem;
+  
+  }
+
+.aboutCards {
+   background: pink;
+   border: 1px solid transparent;
+   border-radius: 1rem;
+   padding: 2rem;
+   text-align: center;
+   margin-top: 2rem;
+   grid-template-rows: 1fr 1fr 2fr 1fr;
+   
+
+}
+
+.aboutCards:hover {
+    background: transparent;
+    border-color: purple;
+}
+
+
+/* Media queries */
+
+@media screen and (max-width: 600px) {
+    #aboutmeHeader {
+        padding-left: 0;
+        width: 90%;
+    }
+
+    #picofMe {
+      
+        margin-left: 0;
+        
+      
+      }}
+
+  
+
+    

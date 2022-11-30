@@ -1,0 +1,23 @@
+
+
+/* Media queries to make responsive */
+
+
+@media screen and (max-width: 1024px) {
+    .header {
+        height: 68vh;
+        
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header {
+        height: 100vh;
+    }
+
+
+    .scrollDown {
+        display: none;
+
+    }}
+       
