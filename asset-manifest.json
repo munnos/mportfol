@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mportfol/static/css/main.7f476174.css",
-    "main.js": "/mportfol/static/js/main.8225bd8a.js",
-    "static/media/projectImage1.PNG": "/mportfol/static/media/projectImage1.41e0c8c13d9c9a393a43.PNG",
-    "static/media/projectImage5.PNG": "/mportfol/static/media/projectImage5.9c97761625e5fb4e501c.PNG",
-    "static/media/Me.jpg": "/mportfol/static/media/Me.39d622b7d496bdbd8b68.jpg",
-    "static/media/projectImage4.PNG": "/mportfol/static/media/projectImage4.f743eff6c6d250f9e8e1.PNG",
-    "static/media/projectImage2.PNG": "/mportfol/static/media/projectImage2.308bd71e46aab6c1aaae.PNG",
-    "static/media/CV.docx": "/mportfol/static/media/CV.53a787ebc57150cff145.docx",
-    "static/media/projectImage6.PNG": "/mportfol/static/media/projectImage6.4b24923d76f3c38b9bed.PNG",
-    "static/media/projectImage3.PNG": "/mportfol/static/media/projectImage3.22684f0aabbcc00ebc35.PNG",
-    "index.html": "/mportfol/index.html",
-    "main.7f476174.css.map": "/mportfol/static/css/main.7f476174.css.map",
-    "main.8225bd8a.js.map": "/mportfol/static/js/main.8225bd8a.js.map"
+    "main.css": "/munnos/mportfol/static/css/main.7f476174.css",
+    "main.js": "/munnos/mportfol/static/js/main.75e8e99c.js",
+    "static/media/projectImage1.PNG": "/munnos/mportfol/static/media/projectImage1.41e0c8c13d9c9a393a43.PNG",
+    "static/media/projectImage5.PNG": "/munnos/mportfol/static/media/projectImage5.9c97761625e5fb4e501c.PNG",
+    "static/media/Me.jpg": "/munnos/mportfol/static/media/Me.39d622b7d496bdbd8b68.jpg",
+    "static/media/projectImage4.PNG": "/munnos/mportfol/static/media/projectImage4.f743eff6c6d250f9e8e1.PNG",
+    "static/media/projectImage2.PNG": "/munnos/mportfol/static/media/projectImage2.308bd71e46aab6c1aaae.PNG",
+    "static/media/CV.docx": "/munnos/mportfol/static/media/CV.53a787ebc57150cff145.docx",
+    "static/media/projectImage6.PNG": "/munnos/mportfol/static/media/projectImage6.4b24923d76f3c38b9bed.PNG",
+    "static/media/projectImage3.PNG": "/munnos/mportfol/static/media/projectImage3.22684f0aabbcc00ebc35.PNG",
+    "index.html": "/munnos/mportfol/index.html",
+    "main.7f476174.css.map": "/munnos/mportfol/static/css/main.7f476174.css.map",
+    "main.75e8e99c.js.map": "/munnos/mportfol/static/js/main.75e8e99c.js.map"
   },
   "entrypoints": [
     "static/css/main.7f476174.css",
-    "static/js/main.8225bd8a.js"
+    "static/js/main.75e8e99c.js"
   ]
 }
