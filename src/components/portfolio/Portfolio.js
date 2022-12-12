@@ -7,6 +7,7 @@ import ProjectImage3 from "../../assets/projectImage3.PNG";
 import ProjectImage4 from "../../assets/projectImage4.PNG";
 import ProjectImage5 from "../../assets/projectImage5.PNG";
 import ProjectImage6 from "../../assets/projectImage6.PNG";
+import ProjectImage7 from '../../assets/projectImage7.PNG';
 
 const Portfolio = () => {
   return (
@@ -80,16 +81,16 @@ const Portfolio = () => {
 
       <article className="portfolioItem">
         <div className="portfolioitemImage">
-          <img src={ProjectImage4} alt="Day planner" />
+          <img src={ProjectImage7} alt="Borrow my stuff" />
         </div>
-        <h3>Day planner</h3>
+        <h3>Borrow my stuff</h3>
         <div className="portfolioitemCTA">
-        <a href="https://github.com/munnos/9-to-5-Day-Organiser" className="btn" target="_blank">
+        <a href="https://github.com/munnos/borrow-my-stuff" className="btn" target="_blank">
           {" "}
           Github
         </a>
         <a
-          href="https://munnos.github.io/9-to-5-Day-Organiser/"
+          href="https://borrow-my-stuff.herokuapp.com/"
           className="btn btn-primary"
           target="_blank"
         >
